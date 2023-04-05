@@ -15,7 +15,7 @@
   
 
   ## Links
-  <a href="">Link to walkthrough video</a>
+  <a href="https://youtu.be/BP6q1Fw9X54">Link to walkthrough video</a>
   
   ## Questions
  If you have any questions regarding this project, Please contact me at: 
